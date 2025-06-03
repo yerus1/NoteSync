@@ -7,7 +7,6 @@ PostgreSQL
 React
 ```
 
-
 ```java
 @Service
 public class NoteSyncService {
